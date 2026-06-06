@@ -97,4 +97,63 @@ The lines make it look bad:
 <img width="522" height="317" alt="image" src="https://github.com/user-attachments/assets/eee0ca46-6948-4c36-b18a-573dadeb862b" />
 
 This looks PERFECT!:
+
 <img width="506" height="326" alt="image" src="https://github.com/user-attachments/assets/b428f1e4-3bcc-4b94-ab61-fd7d6480c231" />
+
+I moved on to create the same thing but for the li-ning logo:
+I added a new image and sketched that out using the spline and arc tool. I then extruded the sketch:
+
+<img width="735" height="527" alt="image" src="https://github.com/user-attachments/assets/366242a3-42db-46c6-9449-b6eb4504f2eb" />
+
+
+I then added a circle in the background and extruded it:
+
+<img width="751" height="427" alt="image" src="https://github.com/user-attachments/assets/77156f79-d6a4-452f-bf51-3eebc78ed33e" />
+<img width="680" height="408" alt="image" src="https://github.com/user-attachments/assets/7766cb35-f599-4177-a977-662da255fd68" />
+
+I then added a new sketch as the arm that connects the logo to the background:
+
+<img width="349" height="275" alt="image" src="https://github.com/user-attachments/assets/08378314-fed8-422f-9084-aa5d5f73d639" />
+
+And extruded that (The racket can be placed between the cylinders.):
+
+<img width="524" height="507" alt="image" src="https://github.com/user-attachments/assets/b281e9f8-64af-4cf0-9345-6d53fc8e3a00" />
+
+I then changed its colour:
+
+<img width="603" height="470" alt="image" src="https://github.com/user-attachments/assets/53fada0a-4738-40a5-8a3d-432344c1c70d" />
+
+I then changed the background to a rectangle:
+
+<img width="666" height="347" alt="image" src="https://github.com/user-attachments/assets/30044740-0040-4e16-9aaa-cad19e1127c9" />
+
+And then rounded the corners:
+
+<img width="754" height="368" alt="image" src="https://github.com/user-attachments/assets/39586621-2f43-4582-86dc-d605ca564cac" />
+
+I then proceeded to make the shuttle box holder:
+
+<img width="951" height="468" alt="image" src="https://github.com/user-attachments/assets/36276546-c66f-4c12-971c-a66d19887cd0" />
+<img width="954" height="598" alt="image" src="https://github.com/user-attachments/assets/844e61ab-4296-4102-bb39-d5663a141ec2" />
+
+I then added the box hold:
+
+<img width="658" height="450" alt="image" src="https://github.com/user-attachments/assets/ec9a2831-716d-408f-8e96-ec8ce080016c" />
+
+And then extruded that:
+
+<img width="534" height="495" alt="image" src="https://github.com/user-attachments/assets/03aa0d3e-6151-4f84-b420-889a4fe10b3d" />
+<img width="955" height="543" alt="image" src="https://github.com/user-attachments/assets/99401464-51b6-4ed5-b90c-495495d94aea" />
+
+I then add the connector to the base:
+
+<img width="692" height="475" alt="image" src="https://github.com/user-attachments/assets/a6e730e6-128f-4887-962b-346c9a96c7a2" />
+<img width="1204" height="765" alt="image" src="https://github.com/user-attachments/assets/af247116-1256-46fd-bc20-57fba11f0ec8" />
+
+And then changed its appearance:
+
+<img width="1050" height="486" alt="image" src="https://github.com/user-attachments/assets/c4369f8a-3ef8-4094-af7c-a2f98a731230" />
+
+I added a badminton text in the box holder:
+
+<img width="1240" height="615" alt="image" src="https://github.com/user-attachments/assets/2d4f46b9-86cb-422f-bfac-e8c6d2aaea0e" />
