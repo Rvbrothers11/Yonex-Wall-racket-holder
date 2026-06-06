@@ -7,9 +7,10 @@ https://cad.onshape.com/documents/472532e1af0945c7c8ad7727/w/1c9d8d80113c60528e9
 
 Product Image
 
-<img width="631" height="476" alt="image" src="https://github.com/user-attachments/assets/f84e0094-86ef-455b-8bb1-79dfcaa2f21e" />
+<img width="1327" height="819" alt="image" src="https://github.com/user-attachments/assets/e72a17d5-af7a-4a8d-b1ba-c1a752415f8e" />
+
 
 How to use the product:
-Just 3D print the file, stick it on the wall using double sided tape, and just place your racket on the hold.
+Just 3D print the file, stick it on the wall using double sided tape, and just place your racket on the hold or the box on the holder.
 
-I made this hold as I have multiple rackets at home, which I can not always carry around with me during my tournaments. And I still have my broken rackets (MEMORIES BRO MEMORIES). Which is why I decided to create this hold to store my rackets on the wall, which is aesthetically pleasing and saves my shoulder from carrying too much weight.
+I made this hold as I have multiple rackets and shuttle boxes at home, which I can not always carry around with me during my tournaments. And I still have my broken rackets (MEMORIES BRO MEMORIES). Which is why I decided to create this hold to store my rackets on the wall, which is aesthetically pleasing and saves my shoulder from carrying too much weight.
