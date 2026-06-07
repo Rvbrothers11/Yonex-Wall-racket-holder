@@ -11,6 +11,6 @@ Product Image
 
 
 How to use the product:
-Just 3D print the file, stick it on the wall using double sided tape, and just place your racket on the hold or the box on the holder.
+Just 3D print the file with a preferrable minimum of 25% infill, stick it on the wall using double sided tape, Y-axis facing up as in the design, and just place your racket on the hold in between the openings of the logo and base or the box on the holder hooks.
 
 I made this hold as I have multiple rackets and shuttle boxes at home, which I can not always carry around with me during my tournaments. And I still have my broken rackets (MEMORIES BRO MEMORIES). Which is why I decided to create this hold to store my rackets on the wall, which is aesthetically pleasing and saves my shoulder from carrying too much weight.
